@@ -6,7 +6,7 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "nl02-vlr01.tcp-reset-club.net",
+                        "address": "ru01-vlr01.tcp-reset-club.net",
                         "port": 443,
                         "users": [
                             {
@@ -26,7 +26,7 @@
                     "publicKey": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
                     "fingerprint": "chrome",
                     "serverName": "hls-svod.itunes.apple.com",
-                    "shortId": "8453e5fd9af927",
+                    "shortId": "31",
                     "spiderX": "/"
                 }
             }
