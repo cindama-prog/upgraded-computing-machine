@@ -6,11 +6,11 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "202.61.201.187",
+                        "address": "nl02-vlr01.tcp-reset-club.net",
                         "port": 443,
                         "users": [
                             {
-                                "id": "c52bb00c-1fa2-436e-b8f4-dabdf582d781",
+                                "id": "9de46ec1-dda0-428b-887c-53ce13c6ff43",
                                 "flow": "xtls-rprx-vision",
                                 "encryption": "none",
                                 "level": 0
@@ -23,10 +23,10 @@
                 "network": "tcp",
                 "security": "reality",
                 "realitySettings": {
-                    "publicKey": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
+                    "publicKey": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
                     "fingerprint": "chrome",
-                    "serverName": "live.com",
-                    "shortId": "",
+                    "serverName": "hls-svod.itunes.apple.com",
+                    "shortId": "8453e5fd9af927",
                     "spiderX": "/"
                 }
             }
